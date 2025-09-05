@@ -1,0 +1,18 @@
+# Node modules
+client/node_modules/
+
+# Python virtual environment (if any)
+server/venv/
+server/utils/__pycache__/
+server/data/
+
+# Environment files
+client/.env
+
+# MacOS & IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# test-sv
+test-csv/
