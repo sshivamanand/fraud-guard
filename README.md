@@ -19,6 +19,3 @@ Fraud Guard is a full-stack machine learning project designed to detect credit c
 - Python  
 - Flask (API and server)  
 - scikit-learn / TensorFlow / Keras (machine learning)  
-
-## Installation 
-
